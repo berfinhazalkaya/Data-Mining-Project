@@ -1,6 +1,3 @@
-# Data-Mining-Project
-Data Mining Project
-
 ## PROBLEMİN AÇIKLANMASI
 
 Çoğumuz meme kanseriyle mücadele eden veya en azından meme kanserine karşı savaşan birini tanıyoruz. Göğüs kanseri, kadınlar arasında en sık görülen kanserdir ve her yıl yaklaşık 2 milyon kadını etkiler. Göğüs kanseri, kadınlar arasında en fazla kansere bağlı ölüme neden olur. Yalnızca 2018 yılında 627.000 kadının meme kanserinden öldüğü tahmin edilmektedir.
